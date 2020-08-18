@@ -64,3 +64,4 @@ for i,x in zip(string,substring):
 #         print(min(air,''.join(s[0:len(ne) - ne.index(p[0]) - 1]) +''.join(p) +''.join(s[len(ne) - ne.index(p[0])-1:])))
 #
 #
+
